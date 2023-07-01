@@ -1,0 +1,5 @@
+outs:
+- md5: f5e8cbfad856704883a5ee71db42fb88
+  size: 10260
+  hash: md5
+  path: sample-x-y-for-learn-knn-guest-1D-array.xlsx
